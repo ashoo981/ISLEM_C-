@@ -1,0 +1,8 @@
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\bin\Debug\Islem.exe.config
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\bin\Debug\Islem.exe
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\bin\Debug\Islem.pdb
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\obj\Debug\Islem.csproj.AssemblyReference.cache
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\obj\Debug\Islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\obj\Debug\Islem.csproj.CoreCompileInputs.cache
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\obj\Debug\Islem.exe
+C:\Users\netadmin\source\repos\Islem\IslemSln\Islem\obj\Debug\Islem.pdb
